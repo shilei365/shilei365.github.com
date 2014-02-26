@@ -4,13 +4,22 @@
   <title><![CDATA[Mr. Stone's Blog]]></title>
   <link href="http://shilei365.github.io/atom.xml" rel="self"/>
   <link href="http://shilei365.github.io/"/>
-  <updated>2014-02-26T11:46:04+01:00</updated>
+  <updated>2014-02-26T16:34:11+01:00</updated>
   <id>http://shilei365.github.io/</id>
   <author>
-    <name><![CDATA[Mr. Stone]]></name>
+    <name><![CDATA[Lei Shi]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The First]]></title>
+    <link href="http://shilei365.github.io/blog/2014/02/21/the-first/"/>
+    <updated>2014-02-21T13:08:56+01:00</updated>
+    <id>http://shilei365.github.io/blog/2014/02/21/the-first</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
