@@ -4,7 +4,7 @@
   <title><![CDATA[Mr. Stone's Blog]]></title>
   <link href="http://shilei365.github.io/atom.xml" rel="self"/>
   <link href="http://shilei365.github.io/"/>
-  <updated>2014-02-26T16:57:04+01:00</updated>
+  <updated>2014-03-03T21:38:46+01:00</updated>
   <id>http://shilei365.github.io/</id>
   <author>
     <name><![CDATA[Lei Shi]]></name>
@@ -18,7 +18,31 @@
     <link href="http://shilei365.github.io/blog/2014/02/21/the-first/"/>
     <updated>2014-02-21T13:08:56+01:00</updated>
     <id>http://shilei365.github.io/blog/2014/02/21/the-first</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h3>把此作为一个测试:</h3>
+
+<h2>1. 代码</h2>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='objective-c'><span class='line'><span class="k">-</span> <span class="p">(</span><span class="kt">IBAction</span><span class="p">)</span><span class="nf">TextField_DidEndOnExit:</span><span class="p">(</span><span class="kt">id</span><span class="p">)</span><span class="nv">sender</span>
+</span><span class='line'><span class="p">{</span>
+</span><span class='line'>    <span class="p">[</span><span class="n">sender</span> <span class="n">resignFirstResponder</span><span class="p">];</span>
+</span><span class='line'> <span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>段内代码 <code>NSLog</code> 试验</p>
+
+<h2>2. 链接</h2>
+
+<p>这是一个 <a href="http://shilei365.github.io/" title="github">连接</a> 在行内.</p>
+
+<h2>3. 图片</h2>
+
+<p><img src="http://shilei365.github.io/Users/developer/Tools/octopress/source/images/2014_03/ballworld1.jpg" alt="说些什么呢" />
+<img src="http://farm8.staticflickr.com/7143/6431012239_751fe1266e.jpg" alt="柏林" /></p>
 ]]></content>
   </entry>
   
