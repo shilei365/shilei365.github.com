@@ -5,3 +5,24 @@ date: 2014-02-21 13:08:56 +0100
 comments: true
 categories: 
 ---
+### 把此作为一个测试:
+
+1. 代码
+-----------------
+{% codeblock lang:objective-c %}
+- (IBAction)TextField_DidEndOnExit:(id)sender 
+{
+    [sender resignFirstResponder];
+ } 
+{% endcodeblock %} 
+段内代码 `NSLog` 试验
+
+2. 链接
+------
+这是一个 [连接](http://shilei365.github.io/ "github") 在行内.
+
+
+3. 图片
+-------------
+![说些什么呢](/Users/developer/Tools/octopress/source/images/2014_03/ballworld1.jpg)
+![柏林](http://farm8.staticflickr.com/7143/6431012239_751fe1266e.jpg)
